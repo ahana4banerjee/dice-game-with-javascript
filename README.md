@@ -1,0 +1,1 @@
+This project first generates two random numbers from 1 to 6. Based on the numbers generated, it decides the winner of the game. Basic concepts of HTML, CSS, JS and flexbox and grid are used to build this project.
